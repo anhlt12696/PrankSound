@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "491948849993",
+    "project_id": "air-horn-c5a9d",
+    "storage_bucket": "air-horn-c5a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491948849993:android:9b1a3db03a78c6b3d4b898",
+        "android_client_info": {
+          "package_name": "com.airhorn.prank.funny.sounds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAub40zh35ba5Pjos1RIclNI1Bka3h-QIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
